@@ -1,16 +1,17 @@
-### Hi there 👋
+## Olá! Meu nome é Lucas Lapazini. Sinta-se à vontade :smiley_cat:
 
-<!--
-**lucaslapazini95/lucaslapazini95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou analista de dados e antigo suporte técnico de redes. Atualmente estou fazendo bacharelado em ciência da computação no Instituto Federal de Educação, Ciência e Tecnologia Farroupilha da minha cidade.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Ferramentas que possuo domínio :triangular_ruler:
+-Python | Pandas | Numpy | Pyspark;
+-Google Cloud Platform;
+-Google Colab;
+-BigQuery
+-MySQL;
+-MongoDB;
+-Power BI;
+-Looker Studio;
+-Microsoft Office (principalmente Excel);
+-Windows;
+-Linux;
+-Redes;
