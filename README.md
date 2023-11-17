@@ -2,7 +2,7 @@
 
 Atualmente estou formado como analista de dados pela SoulCode Academy e estou me graduando em ciência da computação no Instituto Federal de Educação, Ciência e Tecnologia Farroupilha. Atuei anteriormente como suporte técnico de redes e antes disso como auxiliar administrativo.
 
-##Sobre minhas hardskills, tenho domínio nos seguintes recursos 📐
+## Sobre minhas hardskills, tenho domínio nos seguintes recursos 📐
 - Linguagem de programação para data science e libraries correlatas:
 -- Python; Pandas; NumPy; PySpark;
 - Estatística para dados;
