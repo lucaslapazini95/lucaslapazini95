@@ -6,6 +6,7 @@ Sou analista de dados e antigo suporte técnico de redes. Atualmente estou fazen
 - Python | Pandas | Numpy | Pyspark
 - Google Cloud Platform
 - BigQuery
+- PostgreSQL
 - MySQL
 - MongoDB
 - Power BI
