@@ -18,8 +18,6 @@ Atualmente estou formado como analista de dados pela SoulCode Academy e estou me
 -- Looker Studio; Power BI;
 - Sistemas operacionais:
 -- Windows; Linux;
-- Ambientes de desenvolvimento:
--- Google Colab; Anaconda; Jupyter;
 - Git e GitHub;
 - Linguagem de programação C;
 - Ferramentas para edição de texto e planilhas:
