@@ -10,6 +10,7 @@ Sou analista de dados e antigo suporte técnico de redes. Atualmente estou fazen
 - MongoDB
 - Power BI
 - Looker Studio
+- Google Workspace (principalmente o Google Sheets)
 - Microsoft Office (principalmente Excel)
 - Windows
 - Linux
