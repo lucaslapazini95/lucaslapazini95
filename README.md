@@ -23,5 +23,5 @@ Atualmente estou formado como analista de dados pela SoulCode Academy e estou me
 - Ferramentas para edição de texto e planilhas:
 -- Pacote Office (principalmente Excel); Google Workspace (principalmente Google Sheets);
 - Redes;
-- Idioma inglês (C1).
+- Idioma inglês (B2).
 
