@@ -1,27 +1,44 @@
-# Olá! Meu nome é Lucas Lapazini. Sinta-se à vontade :smiley_cat:
+# Hello! My name is Lucas Lapazini. Feel yourself at home :smiley_cat:
 
-Atualmente estou formado como analista de dados pela SoulCode Academy e estou me graduando em ciência da computação no Instituto Federal de Educação, Ciência e Tecnologia Farroupilha. Atuei anteriormente como suporte técnico de redes e antes disso como auxiliar administrativo.
+I am currently graduated as a data analyst from SoulCode Academy and I am pursuing a degree in computer science at the Federal Institute of Education, Science and Technology Farroupilha. I previously worked as a network technical support and before that as an administrative assistant. Nowadays, I work as an IT specialist for an e-commerce company, providing services for the ERP system, marketplace integration, and visual customization of the e-commerce platform. Additionally, I am interning in the front-end development area.
 
-## Sobre minhas hardskills, tenho domínio nos seguintes recursos 📐
-- Linguagem de programação para desenvolvimento e data science com libraries correlatas:
--- Python; Pandas; NumPy; PySpark; Selenium;
-- Estatística para dados;
-- Computação em nuvem:
--- Google Cloud Platform;
-- Ferramenta para criação de contêineres:
--- Docker;
-- Banco de dados relacional e No-SQL:
--- MySQL; postgreSQL; MongoDB;
-- Ferramenta para processamento de Big Data:
--- BigQuery;
-- Ferramentas para construção de dashboards e visualização de dados:
--- Looker Studio; Power BI;
-- Sistemas operacionais:
--- Windows; Linux;
-- Git e GitHub;
-- Linguagem de programação C;
-- Ferramentas para edição de texto e planilhas:
--- Pacote Office (principalmente Excel); Google Workspace (principalmente Google Sheets);
-- Redes;
-- Idioma inglês (B2).
+## Regarding my hardskills, I have proficiency in the following areas:
 
+- **Web Development:**
+  - Front-end: JavaScript, TypeScript, HTML, CSS, Tailwind, React
+  - Back-end: Node.js
+
+- **Programming Languages:**
+  - Python, C
+
+- **Data Analysis and Machine Learning:**
+  - Pandas, NumPy, PySpark, Data Statistics
+
+- **Automation and Web Scraping:**
+  - Selenium
+
+- **Cloud Computing:**
+  - AWS, Google Cloud Platform
+
+- **Containers:**
+  - Docker
+
+- **Databases:**
+  - MySQL, PostgreSQL, MongoDB, SQLite, BigQuery
+
+- **Data Visualization:**
+  - Looker Studio, Power BI
+
+- **Operating Systems:**
+  - Windows, Linux
+
+- **Version Control:**
+  - Git and GitHub
+
+- **Office Tools:**
+  - Microsoft Office Suite (mainly Excel), Google Workspace (mainly Google Sheets)
+
+- **Networks**
+
+- **Languages:**
+  - English (B2)
