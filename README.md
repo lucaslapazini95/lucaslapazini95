@@ -1,8 +1,24 @@
-# Hello! My name is Lucas Lapazini. Feel yourself at home :smiley_cat:
+# Hello! My name is Lucas Lapazini. Feel free :smiley_cat:
 
-I am currently graduated as a data analyst from SoulCode Academy and I am pursuing a degree in computer science at the Federal Institute of Education, Science and Technology Farroupilha. I previously worked as a network technical support and before that as an administrative assistant. Nowadays, I work as an IT specialist for an e-commerce company, providing services for the ERP system, marketplace integration, and visual customization of the e-commerce platform. Additionally, I am interning in the front-end development area.
+## Education
+- **Data Analyst** - SoulCode Academy
+- **B.Sc. in Computer Science (ongoing)** - Federal Institute of Education, Science and Technology Farroupilha
 
-## Regarding my hardskills, I have proficiency in the following areas:
+## Professional Experience
+- **Administrative Assistant**
+- **Network Technical Support**
+
+## Current Roles
+- **IT Specialist** at an E-commerce Company
+  - ERP System Services
+  - Marketplace Integration
+  - Visual Customization of E-commerce Platform
+
+- **Front-end Development Intern**
+
+I am passionate about technology and continuously strive to enhance my skills and knowledge in the field.
+
+# About my **hardskills**:
 
 - **Web Development:**
   - Front-end: JavaScript, TypeScript, HTML, CSS, Tailwind, React
