@@ -1,4 +1,4 @@
-# Hello! My name is Lucas Lapazini. Feel free :smiley_cat:
+# Hello! My name is Lucas Lapazini. Feel yourself at home :smiley_cat:
 
 ## Education
 - **Data Analyst** - SoulCode Academy
@@ -16,7 +16,7 @@
 
 - **Front-end Development Intern**
 
-I am passionate about technology and continuously strive to enhance my skills and knowledge in the field.
+I'm passionate about technology and continuously strive to enhance my skills and knowledge in the field.
 
 # About my **hardskills**:
 
