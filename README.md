@@ -2,7 +2,7 @@
 
 ## Education
 - **Data Analyst** - SoulCode Academy
-- **B.Sc. in Computer Science (ongoing)** - Federal Institute of Education, Science and Technology Farroupilha
+- **B.Sc. in Computer Science (ongoing)** - Instituto Federal de Educação, Ciência e Tecnologia Farroupilha
 
 ## Professional Experience
 - **Administrative Assistant**
